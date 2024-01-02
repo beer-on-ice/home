@@ -1,5 +1,10 @@
 [
   {
+    "icon": "Book",
+    "name": "小传",
+    "link": "https://bio.sob.im/"
+  },
+  {
     "icon": "Blog",
     "name": "博客",
     "link": "https://blog.sob.im/"
@@ -18,11 +23,6 @@
     "icon": "Compass",
     "name": "起始页",
     "link": "https://nav.sob.im/"
-  },
-  {
-    "icon": "Book",
-    "name": "电报",
-    "link": "https://tg.sob.im/"
   },
   {
     "icon": "Fire",
